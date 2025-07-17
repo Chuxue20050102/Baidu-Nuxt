@@ -1,0 +1,32 @@
+{
+  "name": "Baidu-nuxt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nuxt dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "description": "",
+  "dependencies": {
+    "@fastify/accept-negotiator": "^2.0.1",
+    "@nuxt/eslint": "^1.5.2",
+    "@nuxt/image": "^1.10.0",
+    "eslint": "^9.31.0",
+    "ipx": "^3.0.3",
+    "nuxt": "^3.17.6",
+    "pathe": "^2.0.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.11",
+    "@types/node": "^24.0.12",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "sass": "^1.89.2",
+    "tailwindcss": "^4.1.11",
+    "typescript": "^5.8.3",
+    "vue-tsc": "^2.2.12"
+  }
+}
